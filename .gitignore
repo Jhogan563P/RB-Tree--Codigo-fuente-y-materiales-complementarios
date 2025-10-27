@@ -1,0 +1,19 @@
+# Build artifacts
+/build/
+/cmake-build-debug/
+/cmake-build-release/
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Executables
+*.exe
+*.out
+a.out
+
+# Benchmark results
+benchmark_results.csv
+*.png # Si se guardan los gráficos como PNG
